@@ -1,0 +1,31 @@
+ * {
+    box-sizing: border-box;
+   
+}
+html, body #all {
+ --background-color: linear-gradient( #a862b6, #d0d0d0);
+}
+
+/* This style will only be applied to elements within the Index.html file */
+ 
+    #home { 
+        
+    }
+ 
+
+
+
+
+
+
+/*This style will only be applied to elements within the index-archive.html file */
+
+
+
+
+
+
+
+
+
+/*This style will only be applied to elements within the Index-about.html file */
